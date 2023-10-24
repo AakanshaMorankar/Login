@@ -1,2 +1,2 @@
 # Login
-It is login simple page
+It is simple login page
